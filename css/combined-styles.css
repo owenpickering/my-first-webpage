@@ -1,0 +1,18 @@
+h1 {
+  background-color: #d3d3d3;
+  padding: 10px;
+}
+
+h2 {
+  text-decoration: underline;
+  margin-bottom: 0px;
+}
+
+p {
+  font-size: 18px;
+  margin-top: 14px;
+}
+
+img {
+  margin-bottom: 10px;
+}
